@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner Image -->
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HELLO%20CODERS%20%3C/%3E&fontSize=50&animation=fadeIn" alt="Header" width="100%"/>
 
   <br><br>
 
@@ -53,4 +53,4 @@
 
 ### 📂 Featured Projects
 
-* 🎓 **Student Alternative Course Requests System** - Web platform built with PHP & MySQL to streamline academic course processing[cite: 1].
+* 🎓 **Student Alternative Course Requests System** - Web platform built with PHP & MySQL to streamline academic course processing.
