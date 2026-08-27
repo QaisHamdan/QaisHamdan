@@ -13,7 +13,7 @@
   <br>
 
   <!-- Social & Profile Links -->
-  <a href="https://www.linkedin.com/in/7qais-hamdan-b13206377">
+  <a href="https://www.linkedin.com/in/َqais-hamdan-b13206377">
     <img src="https://img.shields.io/badge/LINKEDIN-Qais%20Hamdan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/qaishamdan8-cpu">
