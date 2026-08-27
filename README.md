@@ -52,4 +52,6 @@
 
 ### 📂 Featured Projects
 
-* 🎓 **Student Alternative Course Requests System** - Web platform built with PHP & MySQL to streamline academic course processing.
+* 🎓 **Student Alternative Course Requests System**
+  * *Overview:* A web-based platform built to manage and automate university students' requests for alternative academic courses.
+  * *Tech Stack:* `PHP` | `MySQL` | `HTML5` | `CSS3` | `JavaScript`
