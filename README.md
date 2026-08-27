@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner Image -->
-  <img src="C:\github\20029b7a-7671-4092-92c7-b0a90590b960.png" alt="Qais Hamdan Banner" width="100%"/>
+  <!-- Custom Banner Image -->
+  <img src="ضع_رابط_الصورة_المباشر_هنا" alt="Qais Hamdan Banner" width="100%"/>
 
   <br><br>
 
@@ -13,14 +13,14 @@
 
   <br>
 
-  <!-- Key Highlights / Bullet points -->
+  <!-- Key Highlights -->
   <p>🎓 Fresh CIS Graduate from <b>Tafila Technical University (TTU)</b></p>
   <p>🚀 Practical Web Development Graduate from <b>Orange Coding Academy</b></p>
   <p>🛠️ Building web apps & processing data using <b>PHP, MySQL & Python</b></p>
 
   <br>
 
-  <!-- Social & Profile Links (Badges) -->
+  <!-- Social & Profile Links -->
   <a href="https://linkedin.com/in/qaishamdan">
     <img src="https://img.shields.io/badge/LINKEDIN-Qais%20Hamdan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -43,7 +43,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -53,4 +53,4 @@
 
 ### 📂 Featured Projects
 
-* 🎓 **Student Alternative Course Requests System** - Web platform built with HTML, CSS, JavaScript PHP & MySQL to streamline academic course processing
+* 🎓 **Student Alternative Course Requests System** - Web platform built with PHP & MySQL to streamline academic course processing.
