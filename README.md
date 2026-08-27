@@ -13,17 +13,17 @@
   <br>
 
 <!-- Social & Profile Links -->
-  <a href="https://www.linkedin.com/in/7qais-hamdan-b13206377">
-    <img src="https://img.shields.io/badge/LINKEDIN-Qais%20Hamdan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/qaishamdan8-cpu">
-    <img src="https://img.shields.io/badge/GITHUB-qaishamdan8--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<a href="https://www.linkedin.com/in/7qais-hamdan-b13206377">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/qaishamdan8-cpu">
+  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-  <br><br>
+<br><br>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=qaishamdan8-cpu&style=flat-square&color=orange&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=qaishamdan8-cpu&style=flat-square&color=0A66C2&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <hr>
