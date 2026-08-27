@@ -1,8 +1,7 @@
 <div align="center">
 
   <!-- Custom Banner Image -->
-  <img src="C:\github\20029b7a-7671-4092-92c7-b0a90590b960.png" alt="Qais Hamdan Banner" width="100%"/>
-
+<img width="1967" height="799" alt="20029b7a-7671-4092-92c7-b0a90590b960" src="https://github.com/user-attachments/assets/7bf7eea5-3143-4dab-b85a-84b717a3488d" />
   <br><br>
 
   <!-- Name in English & Arabic -->
