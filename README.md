@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Custom Banner Image -->
-  <img src="ضع_رابط_الصورة_المباشر_هنا" alt="Qais Hamdan Banner" width="100%"/>
+  <img src="C:\github\20029b7a-7671-4092-92c7-b0a90590b960.png" alt="Qais Hamdan Banner" width="100%"/>
 
   <br><br>
 
