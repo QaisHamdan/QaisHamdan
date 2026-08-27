@@ -36,7 +36,7 @@
 - 🚀 **Practical Web Development** background from Orange Coding Academy.
 - 🛠️ **Building & Analyzing:** Crafting web apps with HTML5, CSS3, JS, PHP & MySQL, plus data processing using Python & SQL.
 - 🎯 **Open for Opportunities:** Actively seeking entry-level roles in Web Development, IT, or Data Analysis.
-- 📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/7qais-hamdan-b13206377)
+- 📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/َqais-hamdan-b13206377)
 
 ---
 
