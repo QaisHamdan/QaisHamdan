@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner Image -->
-  <img src=""C:\github\20029b7a-7671-4092-92c7-b0a90590b960.png"" alt="Qais Hamdan Banner" width="80%"/>
+  <img src="C:\github\20029b7a-7671-4092-92c7-b0a90590b960.png" alt="Qais Hamdan Banner" width="100%"/>
 
   <br><br>
 
