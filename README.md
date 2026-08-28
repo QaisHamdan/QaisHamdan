@@ -126,7 +126,7 @@ I’m looking to start my professional career in **Web Development or IT**, wher
 
 I'm always open to connecting with developers, recruiters, and professionals in the IT field.
 
-<a href="https://www.linkedin.com/in/qais-hamdan-b13206377">
+<a href="https://www.linkedin.com/in/َqais-hamdan-b13206377">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
        alt="LinkedIn"/>
 </a>
